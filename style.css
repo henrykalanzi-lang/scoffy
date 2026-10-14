@@ -1,0 +1,25 @@
+#k{
+    text-align: center;
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    
+    background-color: rgb(40, 39, 39);
+    color: azure;
+    text-align: center;
+}
+#P{
+    padding: 10px 200px;
+    border-radius: 5px;
+    margin: 20px;
+}
+#O{
+   padding: 10px 250px; 
+   background-color: red;
+   color: azure;
+   border-radius: 5px;
+}
+#I{
+    padding: 10px 180px;
+}
